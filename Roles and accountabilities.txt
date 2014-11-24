@@ -1,0 +1,245 @@
+Process: based on new kind of governance structure called holacracy. A really well-articulated flat structure, distributed authority scheme. Create an organization where the responsibilities for various things are granted to different people in the organization; they're "energizing" particular roles.
+Two kinds of meetings:
+
+1) Governance meeting (today's example), roles are determined and accountabilities are detailed, ex. "Election role," all the work belongs to the roles, and every person is destined to have multiple roles. Can volunteer, and/or they may be assigned by the lead link if certain roles are not being filled (don't determine the role).
+
+2) Tactical meetings; talking about tensions that come up, as far as activities or a need to move or adjust a role.
+Project; something that has a beginning and an end.
+
+Point is; there are no job descriptions, we're promising that we're going to energize whatever roles we're fulfilling. Also tracking how the role is going and how well it fits in with the other roles and interactions. Individuals are responsible for the timing and definition of the role, and for getting things moving along.
+
+In the EarthCube setting things are currently emerging, so we want the ability to add roles when there are new working groups or particular requests from the CTs. Something new comes up on the edge of a role, gets done initially, but if it'll be a recurring role needs to be added in.
+
+11/13/2014
+Governance meeting for EarthCube governance project
+
+Working Rules:
+●	In case of the lead committee person absence, the note taker leads the call and Genevieve takes notes
+●	Notes will only consist of action items and decisions made/key outcomes. Raw, detailed notes can be taken by committee members if they want to
+●	EarthCube PCs will post weekly reports to Slack so that Bruce and everyone is aware of what’s going on
+●	EC PCs and Bruce will have a brief Google hangout every Monday and Friday, after 2pm
+
+Roles assignments (move to another document):
+Bruce: Leadership Council, TAC working groups, Engagement Notes & Liaison Notes, CDF notes,   Storyteller
+Anna: Liaison, Engagement, Evaluation, NSF Notes
+Kate: Science, CDF, Video Render-er, TAC notes, OMG Notes
+Rachael: Demo Governance Roles: TAC Lead, Science Notes, NSF Lead, Evaluation Notes, Leadership Council Notes,
+ECTEG Award roles: OMG lead
+GRAs - General: Website Front-page Content and Community Updates, Researcher, Training Materials Creator, 
+	Alissa: 
+	Jamie: Election manager
+Genevieve: backup notetaker (on-call) if the committee leader is absent
+
+ADD NEW ROLES ON TOP
+
+●	Volunteer appreciation and recognition lead
+○	
+
+●	Committee leader (Sci-Committee, TAC, Leadership Council, Engagement Team, Liaison Team, CDF):
+○	Purpose: effective and timely communication point for the committee
+○	Accountabilities:
+	•	■	Sending E-mail; sending and responding to listserv, 
+	•	■	Maintaining Committee Workspace (monitoring content, updating content after meetings)
+	•	■	Creating Doodle Polls for Committee’s meetings
+	•	■	BECOMES CALL MANAGER (see role)
+	•	■	Leading support point on committee calls, and 
+	•	■	sends out agendas at least 24 hours beforehand 
+	•	■	Reminding Notetaker to be on committee calls
+	•	■	sends out follow-up emails 24 hours afterward 
+	•	●	Follow-up emails contain:
+	•	○	Links to notes, recording, slides, decisions made, and important updates 
+	•	■	Supporting the committee Chairs in meeting agenda development 
+	•	■	Knows and is in contact with the Committee Chair
+	•	■	Post YouTube, SlideShare, and GoogleDoc Notes links on the group’s Workspace
+	•	■	Indicate material needed from the Researcher role for Committee Leader tasks
+	•	■	Make sure that Committees’ Working Group Leaders know how to run call-support (WebEx or Google Hangout) and take notes for meetings, then send meeting notes to you
+	•	■	supporting Election Manager with nomination calls to Committee
+	•	■	ONboards new members 
+●	Webex core commander: Rachael
+○	Purpose: provide sanity and central webex authority
+○	Accountabilities:
+■	providing Troubleshooting, 
+■	providing technical support, 
+■	providing central authority for passwords etc.
+
+●	Call Manager:
+○	Purpose: Committee leader (or proxy) on calls
+○	Accountabilities:
+■	Setting up Webex, add to workspace calendar, Outlook calendar
+■	Getting notes documents ready
+■	Starting the WebEx, ending the WebEx
+■	Notifying Video Renderer of new recording to be rendered
+
+●	Call Note Taker: (changes)
+○	Purpose: taking notes of decisions and next steps during calls and/or meetings
+○	Accountabilities:
+■	Taking notes on a regular basis as assigned
+■	Take notes (on Google Docs) during the call, capturing attendees, action items, and decisions made
+●	Raw notes will be taken by Committee/Team members
+■	Organize notes 
+■	Notify Committee Leader when notes are complete
+○	Personnel
+■	Kate: TAC
+■	Rachael: Science
+■	Bruce: Liaison, Engagement
+■	Anna & Genevieve: Backup
+
+●	Document Librarian: Rachael
+○	Purpose: make perfect sense of document storage
+■	Taking command of the current document archive
+■	turning this into the library we need
+○	
+●	
+●	Newsletter-Guru: Anna
+○	Purpose: Honcho the best newsletter ever
+○	Accountabilities: 
+■	Updating member-list in Mailchimp before sending each bi-weekly Newsletter with new Workspace members
+■	Send EarthCube Community Newsletter on a bi-weekly basis, including:
+●	Governance Updates
+●	Call for Participations
+●	Upcoming Event Lists
+●	EarthCube Projects Updates 
+●	more
+
+●	Twitter-Meister: Anna
+○	Purpose: to track and connect with EarthCube members on Twitter
+○	Accountabilities
+■	Connect with other EarthCube member Twitter accounts; reTweetin’
+■	Follow-up with members on Twitter
+
+●	Facebook-King: Anna
+○	Purpose: to track and connect with EarthCube members on Facebook
+○	Accountabilities
+■	Connect with other EarthCube member Facebook accounts; liking, commenting, etc.
+■	Follow-up with members on Facebook
+
+●	Video Renderer: Kate
+○	Purpose: to render the videos posted online (recordings of calls and other outreach) 
+○	Accountabilities:
+■	Learning video rendering skills
+■	Post to YouTube (Committee Leaders’ job to get link and provide to Committee) 
+●	Training Material Creator : GRAs
+○	Purpose: Collect or create training materials for needed services (ex. WebEx)
+○	Accountabilities:
+■	Find available training materials and provide links, or create training materials for those without effective material
+■	Creation of “EarthCube 101” material
+
+●	Researcher: GRAs
+○	Purpose: collect and synthesize background information; summarize if needed
+○	Accountabilities:
+■	Collect, collate and create information (documents, presentations, reports) when asked by the Committee Leader 
+
+●	EarthCube Storyteller: Bruce
+○	Purpose: put together the EarthCube brand and ensure consistent messaging
+○	Accountabilities:
+■	Ensure that materials coming from EarthCube are consistent with the brand
+■	Put together a single, cohesive story for EarthCube
+■	working with Meeting Determinator to assemble branded materials
+■	add content to front page
+
+Website/Workspace:
+
+●	Website sysadmin: Pam Barry-Santos
+○	Purpose: to maintain and upgrade the EC website(s)
+○	Accountabilities:
+■	performing server-side maintenance of websites
+■	performing upgrades on a timely basis
+
+●	Website Content and Curation Leader (Front Page Stuff): Kate
+○	Purpose: to administer the distributed curation capabilities of the website
+○	Accountabilities:
+■	distributing curation capabilities across the content  areas of the website
+■	adding new content as desirable
+■	spinning up new content areas in support of committees, etc.
+■	evaluating the use of the website by the community
+■	suggesting new changes to the website as needed
+
+●	Website Front-page Content and Community Updates: GRAs
+○	Purpose: 
+○	Accountabilities:
+■	Posts governance, project, and other updates of interest to the EarthCube community on the Workspace 
+■	Receives content from Lee and Project Coordinators about ideas to post
+■	Monitor ESSI Listserv for material 
+
+●	Election manager: Jamie
+○	Purpose: To facilitate effective elections for committees and other units of EC
+○	Accountabilities:
+■	gathering info from Committee Leader
+■	setting up election service on web
+■	sending announcement to appropriate listserv
+■	monitoring nominations in conversation with Committee Leader
+
+EarthCube General Management and Support:
+	
+●	Project Budget Manager: Randi
+○	Purpose: fiscal support to make everything possible
+○	Accountabilities:
+■	fielding purchase requests
+■	approving purchase requests
+
+●	Travel Manager: Kendra
+○	Purpose: single point of contact for all travel arrangements
+■	Air itineraries
+■	hotel reservations
+■	coordinate with all team members
+■	contribute to travel matrix
+■	conference registrations
+
+Conference/Meeting Support Roles:
+
+●	Meeting determinator
+○	determining strategy for attending which meetings
+○	working with EarthCube Storyteller to get relevant materials
+○	curating meeting page on EC website
+
+●	Booth Runners (not Blade Runners): Whoever is there 
+○	Purpose: staff the booth at meetings and conferences
+○	Accountabilities:
+■	Booth set-up and logistics
+■	Presentation and distribution of meeting materials
+■	Discussion with meeting participants
+■	Live-tweet throughout meeting with event’s hashtag 
+■	co-ordinate with conference manager to get booth shipped both ways
+■	check travel matrix for accuracy 
+●	Materials Creator: Kate
+○	Purpose: creation of presentation, publication, or “swag” materials for meetings
+○	Accountabilities:
+■	Create the materials to be taken to meetings and conferences
+■	Work with storyteller to ensure proper branding of materials
+
+●	Conference Logistics Manager: Kendra
+○	Purpose: manage the arrangements for conference hotels
+■	Hotel selection
+■	exhibit planning
+■	contracts with hotels
+■	coordinates budget with PI
+■	on-sight orders for electrical, internet, etc.
+■	maintain master calendar travel matrix 
+●	Welcome Wagon
+○	Purpose: Onboard new members to the website, add buzz and personal touch
+○	Accountabilities:
+■	manage the (automated?) welcome messages/emails on the website
+■	Send a welcome email to encourage participation???
+●	
+
+
+Existing Funded Projects lead:
+
+Building blocks: science
+
+
+RCNs: 
+
+
+All hands meeting work
+
+
+Test Governance work:  Lead BRUCE
+
+OMG
+
+Advisory Council?
+
+Evaluation team lead:  ANNA
+
+
